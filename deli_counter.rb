@@ -6,3 +6,5 @@ def line(people)
   people.each do |person|
     count+=1
     output+= " #{count}. #{person}"
+  end
+end
