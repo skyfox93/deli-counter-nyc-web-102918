@@ -8,3 +8,5 @@ def line(people)
     output+= " #{count}. #{person}"
   end
 end
+
+def take_a_n
